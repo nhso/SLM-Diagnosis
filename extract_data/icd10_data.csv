@@ -1,0 +1,11 @@
+รหัสโรค,ชื่อสามัญ,ชื่อไทย
+A00,CHOLERA,อหิวาตกโรค
+A000,"CHOLERA DUE TO VIBRIO CHOLERAE 01, BIOVAR CHOLERAE",อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเร โอ หนึ่ง ไปโอวาร
+A001,"CHOLERA DUE TO VIBRIO CHOLERAE 01, BIOVAR ELTOR",อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเร โอ หนึ่ง ไปโอวาร
+A009,"CHOLERA, UNSPECIFIED",อหิวาตกโรค ที่มิได้ระบุรายละเอียด
+A01,TYPHOID AND PARATYPHOID FEVERS,ไข้รากสาดน้อย (ไทฟอยด์) และไข้รากสาดเทียม (พาราไทฟ
+A010,TYPHOID FEVER,ไข้รากสาดน้อย (ไทฟอยด์)
+A011,PARATYPHOID FEVER A,ไข้รากสาดเทียม (พาราไทฟอยด์) เอ
+A012,PARATYPHOID FEVER B,ไข้รากสาดเทียม (พาราไทฟอยด์) บี่
+A013,PARATYPHOID FEVER C,ไข้รากสาดเทียม (พาราไทฟอยด์) ซี
+A014,"PARATYPHOID FEVER, UNSPECIFIED",ไข้รากสาดเทียม (พาราไทฟอยด์) ที่มิได้ระบุรายละเอีย
